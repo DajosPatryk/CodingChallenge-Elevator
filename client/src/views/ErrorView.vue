@@ -1,7 +1,7 @@
 <template>
   <div class="error-screen">
     <div class="error-container center text-center">
-      <div><h2 class="tenant text--xl">{{ code }}</h2></div>
+      <div><h2 class="text--xl">{{ code }}</h2></div>
       <div><span>{{ message }}</span></div>
     </div>
   </div>
