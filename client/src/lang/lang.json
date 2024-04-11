@@ -1,0 +1,22 @@
+{
+  "en": {
+    "name": "Name",
+    "quantity": "Quantity",
+    "due": "Due",
+    "editProduct": "Edit Product",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "requiredField": "This field is required."
+  },
+  "de": {
+    "name": "Name",
+    "quantity": "Anzahl",
+    "due": "Fällig",
+    "editProduct": "Produkt bearbeiten",
+    "apply": "Anwenden",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "requiredField": "Dieses Feld ist erforderlich."
+  }
+}
