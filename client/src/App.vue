@@ -1,6 +1,6 @@
 <template>
   <div id="app-container">
-    <router-view class="tenant component-content" />
+    <router-view class="component-content" />
   </div>
 </template>
 <script>
