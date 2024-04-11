@@ -32,6 +32,7 @@ To achieve the wanted functionality with simple and modern UI design I used the 
 ![mobile.png](mobile.png)
 
 ### How to run
+- **Install** - cd ./client 👉 npm i
 - **Run** - cd ./client 👉 npm run serve
 - **Build** - cd ./client 👉 npm run build
 - **Test** - cd ./client 👉 npm run test:unit
